@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  color: aquamarine
+}
+header {
+  background-color: grey
+}
+header nav ul li {
+  display: inline;
+  margin: 45px;
+  color: rgb(200, 221, 245)
+}
+h2 {
+  background-color: paleturquoise
+}
+p{
+  color: burlywood
+}
+footer{
+  text-align: center;
+  color: aquamarine;
+  background-color: grey
+}
+
