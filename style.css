@@ -14,11 +14,15 @@ h2 {
   background-color: paleturquoise
 }
 p{
-  color: burlywood
+  color: burlywood;
+  background-color: blueviolet
 }
 footer{
   text-align: center;
   color: aquamarine;
   background-color: grey
+}
+h3 {
+  color: rgb(247, 17, 55)
 }
 
